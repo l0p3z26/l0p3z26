@@ -2,19 +2,7 @@
 
 # 👋 Hola, soy Diego Lopez
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Estudiante+de+Sistemas+Microinformaticos+y+Redes;Desarrollo+web%2C+bots+de+Discord+y+automatizacion;IA+generativa%2C+backend+ligero%2C+redes+y+sistemas" alt="Typing SVG" />
-
-<p>
-  <a href="https://l0p3z26.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://github.com/l0p3z26">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/l0p3z26">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Junior+Prompt+Engineer;Estudiante+de+Sistemas+Microinformaticos+y+Redes;Desarrollo+web%2C+bots+de+Discord+y+automatizacion;IA+generativa%2C+backend+ligero%2C+redes+y+sistemas" alt="Typing SVG" />
 
 </div>
 
@@ -37,17 +25,6 @@ Me interesa crear software util, automatizado y bien estructurado, con especial 
 ---
 
 ## 🛠️ Tecnologias con las que mas trabajo
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</p>
 
 - ⌨️ **Lenguajes:** Python, JavaScript, HTML5, CSS3, Batch/CMD, SQL.
 - 🌐 **Web:** React, APIs REST, responsive design, GitHub Pages, prototipos frontend.
@@ -115,12 +92,12 @@ Bot de Discord avanzado desarrollado en Python con IA integrada, moderacion, tic
 
 <p>
   <a href="https://l0p3z26.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-l0p3z26.github.io-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://github.com/l0p3z26">
-    <img src="https://img.shields.io/badge/GitHub-l0p3z26-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://linkedin.com/in/l0p3z26">
-    <img src="https://img.shields.io/badge/LinkedIn-l0p3z26-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
