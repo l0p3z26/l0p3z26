@@ -55,11 +55,11 @@ Demo: [l0p3z26.github.io/portfolio](https://l0p3z26.github.io/portfolio/)
 
 Prototipo mobile-first para mejorar una web de negocio local, con estructura visual moderna, animaciones y enfoque comercial.
 
-### 🍏 [NutriAI](https://github.com/l0p3z26/NutriAI)
+### 🍏 [NutriAI]([https://github.com/l0p3z26/NutriAI](https://claude.ai/public/artifacts/c118f850-d802-4d4c-a51a-d30808c3ad27))
 
 Aplicación enfocada en nutrición e IA, pensada para seguimiento de comidas, cálculos y ayuda personalizada.
 
-### 💰 [Betting recommender](https://github.com/l0p3z26/betting-recomender)
+### 💰 [Betting recommender]([https://github.com/l0p3z26/betting-recomender](https://claude.ai/public/artifacts/74bfa75f-89de-4907-9a6a-04b9ff9faedf))
 
 Proyecto experimental para analizar apuestas deportivas usando datos, probabilidades y criterios matemáticos.
 
